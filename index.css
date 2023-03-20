@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  padding: 40px;
+  background-image: url(https://www.ddsonline.com.br/wp-content/themes/yootheme/cache/99/meio-ambiente-entenda-mais-sobre-a-importancia-da-coleta-seletiva-png-99592353.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 1000px;
+  font-family: 'Kanit', sans-serif;
+}
+
+h1 {
+  padding-bottom: 10px;
+  color: rgb(17, 126, 108);
+  font-family: 'Kanit', sans-serif;
+}
+h2 {
+  padding-bottom: 230px;
+  font-size: 15px;
+  text-align: left;
+  color: rgb(74, 68, 68);
+}
+
+h2 span{
+  color: rgb(17, 126, 108);
+}
+p {
+  color: rgb(74, 68, 68);
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+a {
+  padding: 5px 10px;
+  background-color: rgb(17, 126, 108);
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+}
